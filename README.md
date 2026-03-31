@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/codechef-logo.png" alt="CodeChef Logo" width="300"/>
+  <img src="Practice_Python\assets\codechef-logo.png" alt="CodeChef Logo" width="300"/>
 </p>
 
 # 🚀 CodeChef Python & DSA Learning Journey
