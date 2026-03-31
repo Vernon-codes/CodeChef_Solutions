@@ -1,44 +1,62 @@
 <p align="center">
-  <img src="Practice_Python\assets\codechef-logo.png" alt="CodeChef Logo" width="300"/>
+  <img src="Practice_Python/assets/codechef-logo.png" alt="CodeChef Logo" width="350"/>
 </p>
 
-# 🚀 CodeChef Python & DSA Learning Journey
+<h1 align="center">🚀 CodeChef Python & DSA Learning Journey</h1>
 
-This repository contains my solutions to CodeChef problems while learning Python and building a strong foundation in Data Structures and Algorithms (DSA).
+<p align="center">
+  <b>Mastering Python & Data Structures through consistent problem solving</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-DSA-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-CodeChef-brown?style=for-the-badge"/>
+</p>
+
+---
 
 ## 📌 About
-I am currently learning Python along with beginner-level DSA. Since I don’t have access to the paid version on CodeChef, I’ve uploaded solutions to problems that are difficult or not accessible in the free version.
+This repository contains my solutions to CodeChef problems while learning Python and building a strong foundation in Data Structures and Algorithms (DSA).
 
-This repository is helpful for:
-- Beginners learning Python
-- Students starting DSA
-- Anyone looking for structured CodeChef solutions
+Since I don’t have access to the paid version on CodeChef, I’ve uploaded solutions to problems that are difficult or locked behind the premium version.
+
+💡 This repository is helpful for:
+- Beginners learning Python  
+- Students starting DSA  
+- Anyone looking for structured CodeChef solutions  
+
+---
 
 ## 📂 Repository Structure
-
-The repository is organized in a modular way:
 
 ### 📁 Module 1: Practice_Python
 This module focuses on Python fundamentals.
 
-Submodules:
+#### 🔹 Submodules:
 - **1. Introduction, Output & Math Operators**
 - **2. Variables and Data Types**
 - **3. Strings**
 - and more...
 
-Each submodule contains solutions to problems related to that specific topic.
+Each submodule contains solutions based on specific topics for better understanding.
 
-> More modules will be added as I continue my learning journey.
+> More modules will be added as I continue my learning journey 🚀
+
+---
 
 ## 🎯 Goals
-- Build consistency in problem solving  
-- Strengthen Python fundamentals  
-- Improve DSA skills step by step  
+- 📈 Build consistency in problem solving  
+- 🧠 Strengthen Python fundamentals  
+- ⚡ Improve DSA skills step by step  
+
+---
 
 ## 🤝 Contribution
 This is a personal learning repository, but suggestions and improvements are always welcome!
 
 ---
 
-⭐ If you find this helpful, consider giving it a star!
+<p align="center">
+  ⭐ If you find this helpful, consider giving it a star!
+</p>
