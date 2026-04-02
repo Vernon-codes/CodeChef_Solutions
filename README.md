@@ -37,6 +37,8 @@ This module focuses on Python fundamentals.
 - **1. Introduction, Output & Math Operators**
 - **2. Variables and Data Types**
 - **3. Strings**
+- **4. User_Inputs**
+- **5. Algorithmic_Problem_1**
 - and more...
 
 Each submodule contains solutions based on specific topics for better understanding.
