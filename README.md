@@ -39,6 +39,8 @@ This module focuses on Python fundamentals.
 - **3. Strings**
 - **4. User_Inputs**
 - **5. Algorithmic_Problem_1**
+- **6. Conditional_Statements**
+- **7. Algorithmic_Problem_2**
 - and more...
 
 Each submodule contains solutions based on specific topics for better understanding.
