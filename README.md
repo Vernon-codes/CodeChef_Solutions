@@ -43,6 +43,8 @@ This module focuses on Python fundamentals.
 - **7. Algorithmic_Problem_2**
 - **8. Debug_Code**
 - **9. Loops**
+- **10. Algorithmic-Problem_3**
+- **11. Lists**
 - and more...
 
 Each submodule contains solutions based on specific topics for better understanding.
