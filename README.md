@@ -41,6 +41,8 @@ This module focuses on Python fundamentals.
 - **5. Algorithmic_Problem_1**
 - **6. Conditional_Statements**
 - **7. Algorithmic_Problem_2**
+- **8. Debug_Code**
+- **9. Loops**
 - and more...
 
 Each submodule contains solutions based on specific topics for better understanding.
