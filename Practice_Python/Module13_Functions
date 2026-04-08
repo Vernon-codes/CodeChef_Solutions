@@ -1,0 +1,23 @@
+#Calculate Power
+def Calculate_power(base,exponent):
+    return base**exponent
+
+solution=Calculate_power(2,3)
+print(solution)
+
+
+#Calculate the Area of a Rectangle
+def area(lenght,widht):
+    return lenght*widht
+solution=area(5,8)
+print(solution)
+
+#Calculate the simple interest using function
+p=int(input("Enter the principal amount: "))
+r=int(input("Enter the rate of interest:"))
+t=int(input("Enter the time in years:"))
+
+def simple_interest(p,r,t):
+    return (p*r*t)/100
+solution=simple_interest(p,r,t)
+print("The simple interest is:",solution)   
