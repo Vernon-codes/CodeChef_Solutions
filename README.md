@@ -45,6 +45,9 @@ This module focuses on Python fundamentals.
 - **9. Loops**
 - **10. Algorithmic-Problem_3**
 - **11. Lists**
+- **12. Tuples_Dictionary**
+- **13. Functions**
+- **14. Get_Started_With_Complex_Algorithms_Problems**
 - and more...
 
 Each submodule contains solutions based on specific topics for better understanding.
