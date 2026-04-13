@@ -50,9 +50,17 @@ This module focuses on Python fundamentals.
 - **14. Get_Started_With_Complex_Algorithms_Problems**
 - and more...
 
+### 📁 Module 2: Problem_Solving_in_Python
+This module focuses on Python fundamentals
+
+#### 🔹 Submodules:
+- **1. Getting_Started_with_Python**
+- **2. Basic_Math**
+- **3. Conditional_Statements**
+
 Each submodule contains solutions based on specific topics for better understanding.
 
-> More modules will be added as I continue my learning journey 🚀
+More modules will be added as I continue my learning journey 🚀
 
 ---
 
